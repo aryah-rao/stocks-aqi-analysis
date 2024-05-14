@@ -16,7 +16,7 @@ The project utilizes Python and data analysis libraries such as Pandas to proces
 
 The project data is stored in CSV files and includes Senator Nanci Pelosi's stock trading history, NASDAQ stock market index historical price data, and historical price data for individual stocks like Tesla, Microsoft, and Nvidia.
 
-For more detailed information, please refer to the [README.md](stock-trade-analysis/README.md) file in the `stock-trade-analysis` subdirectory.
+For more detailed information, please refer to the [README.md](stocks-analysis/README.md) file in the `stock-trade-analysis` subdirectory.
 
 
 ## Project 2: Air Quality Index and Population Analysis in India
@@ -31,7 +31,7 @@ The project utilizes two main datasets:
 
 The analysis is performed using Python and various data analysis libraries such as Pandas, NumPy, and Matplotlib. The results of the analysis are presented through visualizations and insights, highlighting the states that need immediate policy changes to address low ozone levels.
 
-For more detailed information, please refer to the [README.md](air-quality-analysis/README.md) file in the `air-quality-analysis` subdirectory.
+For more detailed information, please refer to the [README.md](aqi-analysis/README.md) file in the `air-quality-analysis` subdirectory.
 
 ## Contributing
 
