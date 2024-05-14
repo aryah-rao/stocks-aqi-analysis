@@ -59,11 +59,9 @@ The project requires the following dependencies:
 ## Usage
 1. Clone the repository: 'git clone https://github.com/your-username/your-repo.git'
 
-2. Install the required dependencies as mentioned in the [Dependencies](#dependencies) section.
+2. Run the `data_acquisition.ipynb` notebook to acquire and preprocess the data.
 
-3. Run the `data_acquisition.ipynb` notebook to acquire and preprocess the data.
-
-4. Run the `data_analysis.ipynb` notebook to perform the analysis and generate visualizations.
+3. Run the `data_analysis.ipynb` notebook to perform the analysis and generate visualizations.
 
 ## Results
 The analysis reveals that certain states in India have ozone levels below the national threshold, indicating a need for immediate policy changes to prevent the potential formation of ozone holes. Furthermore, the analysis shows that there is no significant correlation between high population and pollution levels, contradicting the claims made by the Indian government that pollution is solely due to a larger population.
