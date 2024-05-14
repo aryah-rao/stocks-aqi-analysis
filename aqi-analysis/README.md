@@ -23,19 +23,19 @@ The project utilizes two main datasets:
 
 ## Project Structure
 The project repository has the following structure:
-├── data/
-│   ├── pollution.xml
-│   └── ...
-├── dbfiles/
-│   └── india.db
-├── img/
-│   └── img.png
-├── modules/
-│   └── util.py
-├── creds.json
-├── data_acquisition.ipynb
-├── data_analysis.ipynb
-└── README.md
+├── data/   \
+│   ├── pollution.xml   \
+│   └── ... \
+├── dbfiles/    \
+│   └── india.db    \
+├── img/    \
+│   └── img.png \
+├── modules/    \
+│   └── util.py \
+├── creds.json  \
+├── data_acquisition.ipynb  \
+├── data_analysis.ipynb \
+└── README.md   \
 
 - The `data/` directory contains the raw data files used in the project.
 - The `dbfiles/` directory contains the SQLite database file (`india.db`) used for storing the processed data.
