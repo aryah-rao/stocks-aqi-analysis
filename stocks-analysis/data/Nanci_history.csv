@@ -1,0 +1,10 @@
+﻿Transaction_Date,Company,Buy_Sell_Shares
+07-23-2021,Nvidia,5000
+06-17-2022,Nvidia,20000
+07-26-2022,Nvidia,-25000
+12-22-2020,Tesla,2500
+03-17-2022,Tesla,2500
+12-20-2022,Tesla,-5000
+03-19-2021,Microsoft,25000
+05-24-2022,Microsoft,5000
+02-08-2023,Microsoft,-30000

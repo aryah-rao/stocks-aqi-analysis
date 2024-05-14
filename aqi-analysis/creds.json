@@ -1,0 +1,7 @@
+{
+  "sqlite": {
+    "dbdir": "./dbfiles",
+    "database": "india",
+    "scheme": "sqlite"
+  }
+}
